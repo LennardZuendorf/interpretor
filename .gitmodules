@@ -1,0 +1,9 @@
+[submodule "data/dataset"]
+	path = data/dataset
+	url = https://huggingface.co/datasets/LennardZuendorf/interpretor
+[submodule "app/space"]
+	path = app/space
+	url = https://huggingface.co/spaces/LennardZuendorf/Interpretor
+[submodule "model/model"]
+	path = model/model
+	url = https://huggingface.co/LennardZuendorf/Interpretor
