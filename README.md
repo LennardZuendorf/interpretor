@@ -17,18 +17,9 @@
 
 **Base Dataset:** [Dynamically-Generated-Hate-Speech-Dataset](https://huggingface.co/datasets/LennardZuendorf/Dynamically-Generated-Hate-Speech-Dataset)
 
-<h2>🗳️ Status:</h2>
-
-**TBD**
-
 <h2>👨‍💻 Author and Credits:</h2>
 
 **Author:** [@LennardZuendorf](https://github.com/LennardZuendorf)
 
 - This project is part of a course in HTW Berlin's Business Computing Bachelor Program.
-
-<h2>📃 Citation:</h2>
-
-You can cite this work as:
-**TBD**
 
