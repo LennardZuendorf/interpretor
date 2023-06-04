@@ -1,5 +1,5 @@
 <h1>interpretor</h1>
-<h4>This is the monorepo for my bachelor thesis, the interpretor project. It contains 3 folders for data, model and app. Each linking to a HuggingFace Repo (dataset, model, spaces respectively).</h4>
+<h4>This is the monorepo for the interpretor project. It contains 3 folders for data, model and app. Each linking to a HuggingFace Repo (dataset, model, spaces respectively). Focus of the project is the interpretable classification of text, if it is hatespeech or not.</h4>
 
 <h2>🔗 Links:</h2>
 
@@ -25,7 +25,7 @@
 
 **Author:** [@LennardZuendorf](https://github.com/LennardZuendorf)
 
-- This project is part of a course in HTW Berlin's Business Computing Bachelor Program, or to be exact the **final part of it**.
+- This project is part of a course in HTW Berlin's Business Computing Bachelor Program.
 
 <h2>📃 Citation:</h2>
 
