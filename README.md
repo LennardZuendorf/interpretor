@@ -11,9 +11,9 @@
 
 <h2>🏗️ Tech Stack:</h2>
 
-**Language:** Python, JupyterNotebook
+**Language/Platform:** Python, JupyterNotebook
 
-**Noatable Packages:** 🤗 Transformers, 🤗 Datasets, 🤗Evaluate, PyTorch and Captum
+**Noteable Packages:** 🤗 Transformers, 🤗 Datasets, 🤗Evaluate, PyTorch and Captum
 
 **Base Dataset:** [Dynamically-Generated-Hate-Speech-Dataset](https://huggingface.co/datasets/LennardZuendorf/Dynamically-Generated-Hate-Speech-Dataset)
 
