@@ -3,7 +3,7 @@
 
 <h2>🔗 Links:</h2>
 
-**[WebApp on Huggingface Spaces](https://huggingface.co/spaces/LennardZuendorf/interpretor-app)**
+**[WebApp on Huggingface Spaces](https://huggingface.co/spaces/LennardZuendorf/interpretor)**
 
 **[Model on Huggingface](https://huggingface.co/LennardZuendorf/interpretor)**
 
